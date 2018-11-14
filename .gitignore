@@ -2,3 +2,6 @@
 git-commands.ipynb
 /.ipynb_checkpoints
 /trained_model
+/notebooks/.ipynb_checkpoints
+/notebooks/data
+/notebooks/trained_model
