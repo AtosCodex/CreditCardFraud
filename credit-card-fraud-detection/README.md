@@ -13,7 +13,7 @@ Fraud Detection: Credit Card Fraud Detection on Cloud ML
 ![Accuracy](./images/accuracy.PNG "Accuracy")
 
 ### AUC
-![AUC](./images/auc.png "AUC")
+![AUC](./images/auc.PNG "AUC")
 
 ### AUC Precision
 ![AUC Precision](./images/auc_precision.PNG "AUC Precision")
@@ -28,4 +28,4 @@ Fraud Detection: Credit Card Fraud Detection on Cloud ML
 ![Precision](./images/precision.PNG "Precision")
 
 ### Recall
-![Recall](./images/recall.PNG "Recall")
+![Recall](./images/recall.png "Recall")
