@@ -41,3 +41,7 @@ Three teams with 1-2 people on each team. There are dependencies among teams. Cl
 * Datalab Team: explore data, experiment feature engineering, build and evaluate model.
 * CloudML Team: move the training jobs and models from datalab to GCP production environment.
 * App Engine Team: Upload the test dataset and call predict API. Build continuous training and prediction.
+
+### Solution Overview
+
+![Credit Card Fraud Detection Flow](./images/creditcardfraud.jpg "CreditCard Fraud Detection Flow")
