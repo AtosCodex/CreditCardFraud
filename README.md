@@ -51,3 +51,5 @@ Three teams with 1-2 people on each team. There are dependencies among teams. Cl
 ![Credit Card Fraud Detection Flow](./images/creditcardfraud_technology.jpg "CreditCard Fraud Detection Flow")
 
 ### Reference
+
+* [Credit Card Fraud Dataset](https://storage.googleapis.com/advanced-solutions-lab/fraud/creditcard.csv)
