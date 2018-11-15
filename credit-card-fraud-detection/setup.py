@@ -20,10 +20,13 @@ REQUIRED_PACKAGES = [
 ]
 
 setup(
-    name='trainer',
+    name='cc-fraud-detection',
     version='0.1',
+    author='Jitendra Takalkar',
+    author_email='jitendra.takalkar@gmail.com',
     install_requires=REQUIRED_PACKAGES,
     packages=find_packages(),
     include_package_data=True,
+    description="Credit Card Fraud Detection",
     requires=[]
 )
