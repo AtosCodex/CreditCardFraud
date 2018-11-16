@@ -6,3 +6,5 @@ git-commands.ipynb
 /notebooks/data
 /notebooks/trained_model
 /notebooks/archive
+/credit_card_fraud_detection/trainer/__pycache__
+**/*.pyc
